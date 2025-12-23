@@ -8,7 +8,7 @@ namespace OpenRouterTest
     {
         static async Task Main(string[] args)
         {
-            string apiKey = "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"; // Replace with your API key
+            string apiKey = "sk-or-v1-2daf5329be3d33e3e097a7136c0f468283fd44af6220b812fa54d92f5"; // Replace with your API key
             string model = "gpt-4o-mini"; // or whichever model you want to test
 
             // Keep chat history
